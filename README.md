@@ -1,9 +1,13 @@
 ### Olá e bem-vindo ao meu perfil do GitHub!
 
-Me chamo Geovanny Valentim sou estudante 
+Me chamo Geovanny Valentim sou natural de Recife/PE 
 
 
-💻 Eu sou Estudante De Análise e Desenvolvimento de Sistemas [Front-End | Back-End | Fullstack]
+💻 Eu sou Estudante De Análise e Desenvolvimento de Sistemas 
+
+🎓 Eu estou estudando atualmente Python e pretendo me especializar na área de ciência de dados.
+
+
 
 ## Tecnologias e Ferramentas
 
